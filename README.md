@@ -1,5 +1,5 @@
 # READ ME
-    This README document contains the steps to deploy `Morrision Applications`
+    This README document contains the steps to deploy `Applications`
 
     Main theme of the project is to convert a .csv file to a json file.
 

@@ -2,3 +2,4 @@ Flask
 pytest
 numpy
 pytest-cov
+microsoft visual studio code(IDE)

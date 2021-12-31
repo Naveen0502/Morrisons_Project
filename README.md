@@ -61,7 +61,6 @@ Run the `Flask` File
 
 ## Output
 A snipeit of a final output where would be uploading a `CSV` file to convert into a `JSON` format
-
 ![parameter](screenshots/home.png) 
 
 ## Step: 5

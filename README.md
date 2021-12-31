@@ -9,7 +9,7 @@
 Source code : https://github.com/Naveen0502/Morrisons.git
 
 # Getting Started :
-We provide a sample app using Flask that you can convert a `CSV` file `JSON` Format.These steps will get this application running.
+We provide a sample app using Flask that you can convert a `CSV` file to`JSON` Format.These steps will get this application running.
 
 # Requirements
 

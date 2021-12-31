@@ -1,0 +1,4 @@
+Flask
+pytest
+numpy
+pytest-cov

@@ -1,8 +1,7 @@
 # READ ME
     This README document contains the steps to deploy `Morrision Applications`
 
-    Main theme of the project is to convert a .csv file which is hard read from a 
-    computer to a json file.
+    Main theme of the project is to convert a .csv file to a json file.
 
 # Morrisons - Python Assessment
 

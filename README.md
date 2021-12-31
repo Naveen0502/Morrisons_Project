@@ -40,7 +40,7 @@ Install `requirment.txt`
     (This requirements. txt file is used for specifying what python packages are required to run the project you are looking at. )
 
 ## Step: 4
-Run the `Flask` File
+Run the `app.py` File
 
     $ python -m flask run
 

@@ -43,7 +43,7 @@ Install `reuirment.txt`
     (This requirements. txt file is used for specifying what python packages are required to run the project you are looking at. )
 
 ## Step: 4
-Run the `Flask` File
+Run the app.py File
 
     $ python -m flask run
 
@@ -53,4 +53,21 @@ Run the `Flask` File
         Use a production WSGI server instead.
     * Debug mode: off 
     * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+    
+## Step: 5
+Run the `/tests/test_app` File
+
+    $ pytest test_app.py or py.test
+    
+## Step: 6
+Code Coverage Tests
+
+    $ coverage run --source=pytest -m pytest -v test_app.py
+    
+ ## Step: 7
+view Coverage Tests Reports
+
+    $ coverage html
+    
+  Note: Creates index.html file to show the results.
 

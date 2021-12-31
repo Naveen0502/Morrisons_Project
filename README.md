@@ -3,7 +3,7 @@
 
     Main theme of the project is to convert a .csv file to a json file.
 
-# Morrisons - Python Assessment
+# Python Code
 
 Source code : https://github.com/Naveen0502/Morrisons.git
 

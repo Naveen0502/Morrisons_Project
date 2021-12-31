@@ -5,8 +5,6 @@
     computer to a json file which in turn can be pushed to a database or can be used in JavaScript for 
     updating new items in website.
 
-![parameter](screenshots/logo.png) 
-
 # Morrisons - Python Assessment
 
 Source code : https://github.com/Naveen0502/Morrisons.git
@@ -58,12 +56,6 @@ Run the `Flask` File
         Use a production WSGI server instead.
     * Debug mode: off 
     * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-
-## Output
-A snipeit of a final output where would be uploading a `CSV` file to convert into a `JSON` format
-
-![parameter](screenshots/home.png) 
-
 
 ## Step: 5
 Run the `/tests/test_app` File

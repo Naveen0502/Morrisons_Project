@@ -9,7 +9,7 @@
 
 # Morrisons - Python Assessment
 
-Source code : https://github.com/Naveen0502/Morrisons.git
+Source code : https://github.com/Naveen0502/Project.git
 
 # Getting Started :
 We provide a sample app using Flask that you can convert a `CSV` file `JSON` Format.These steps will get this application running.
@@ -39,7 +39,7 @@ Create `Virtual Environment`:
 ## Step: 2
 Clone the code from `GITHUB`
 
-Clone the source code from https://github.com/Naveen0502/Morrisons.git
+Clone the source code from https://github.com/Naveen0502/Project.git
 
 ## Step: 3
 Install `reuirment.txt`

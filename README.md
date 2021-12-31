@@ -5,9 +5,11 @@
     computer to a json file which in turn can be pushed to a database or can be used in JavaScript for 
     updating new items in website.
 
+![parameter](screenshots/logo.png) 
+
 # Morrisons - Python Assessment
 
-Source code : https://github.com/Naveen0502/Project.git
+Source code : https://github.com/Naveen0502/Morrisons.git
 
 # Getting Started :
 We provide a sample app using Flask that you can convert a `CSV` file `JSON` Format.These steps will get this application running.
@@ -17,9 +19,9 @@ We provide a sample app using Flask that you can convert a `CSV` file `JSON` For
 Install and update using `PIP`:
 
     1. In pyhton 2.x
-        $ pip install -r requirment.txt
+        $ pip install -m requirment.txt
     2. In python 3.x
-        $ pip3 install -r requirment.txt
+        $ pip3 install -m requirment.txt
 
 # Install the Application
 
@@ -37,7 +39,7 @@ Create `Virtual Environment`:
 ## Step: 2
 Clone the code from `GITHUB`
 
-Clone the source code from https://github.com/Naveen0502/Project.git
+Clone the source code from https://github.com/Naveen0502/Morrisons.git
 
 ## Step: 3
 Install `reuirment.txt`
@@ -56,6 +58,11 @@ Run the `Flask` File
         Use a production WSGI server instead.
     * Debug mode: off 
     * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+## Output
+A snipeit of a final output where would be uploading a `CSV` file to convert into a `JSON` format
+
+![parameter](screenshots/home.png) 
 
 
 ## Step: 5

@@ -16,7 +16,7 @@ We provide a sample app using Flask that you can convert a `CSV` file to`JSON` F
 Install and update using `PIP`:
 
     1. In pyhton 3.x
-        $ pip install -m requirment.txt
+        $ pip install requirment.txt
 
 # Install the Application
 

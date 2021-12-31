@@ -59,9 +59,6 @@ Run the `Flask` File
     * Debug mode: off 
     * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
-## Output
-A snipeit of a final output where would be uploading a `CSV` file to convert into a `JSON` format
-![parameter](screenshots/home.png) 
 
 ## Step: 5
 Run the `/tests/test_app` File

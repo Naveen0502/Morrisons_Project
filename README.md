@@ -15,7 +15,7 @@ Install and update using `PIP`:
     2. In python 3.x
         $ pip3 install -r requirment.txt
 
-# Install the Application
+# Run the Application in microsoft visual studio code(IDE)
 
 ## Step: 1
 Create `Virtual Environment`:

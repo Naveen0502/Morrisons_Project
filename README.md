@@ -3,10 +3,6 @@
 
     Main theme of the project is to convert a .csv file to a json file.
 
-# Python Code
-
-Source code : https://github.com/Naveen0502/Project.git
-
 # Getting Started :
 We provide a sample app using Flask that you can convert a `CSV` file `JSON` Format.These steps will get this application running.
 

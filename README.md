@@ -2,26 +2,21 @@
     This README document contains the steps to deploy `Morrision Applications`
 
     Main theme of the project is to convert a .csv file which is hard read from a 
-    computer to a json file which in turn can be pushed to a database or can be used in JavaScript for 
-    updating new items in website.
-
-![parameter](screenshots/logo.png) 
-
+    computer to a json file.
+    
 # Morrisons - Python Assessment
 
 Source code : https://github.com/Naveen0502/Morrisons.git
 
 # Getting Started :
-We provide a sample app using Flask that you can convert a `CSV` file `JSON` Format.These steps will get this application running.
+We provide a sample app using Flask that you can convert a `CSV` file to`JSON` Format.These steps will get this application running.
 
 # Requirements
 
 Install and update using `PIP`:
 
-    1. In pyhton 2.x
-        $ pip install -m requirment.txt
-    2. In python 3.x
-        $ pip3 install -m requirment.txt
+    1. In pyhton 3.x
+        $ pip install requirment.txt
 
 # Install the Application
 
@@ -48,7 +43,7 @@ Install `reuirment.txt`
     (This requirements. txt file is used for specifying what python packages are required to run the project you are looking at. )
 
 ## Step: 4
-Run the `Flask` File
+Run the app.py File
 
     $ python -m flask run
 
@@ -58,12 +53,6 @@ Run the `Flask` File
         Use a production WSGI server instead.
     * Debug mode: off 
     * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-
-## Output
-A snipeit of a final output where would be uploading a `CSV` file to convert into a `JSON` format
-
-![parameter](screenshots/home.png) 
-
     
 ## Step: 5
 Run the `/tests/test_app` File

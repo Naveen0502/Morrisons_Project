@@ -34,7 +34,7 @@ Clone the code from `GITHUB`
 Clone the source code from https://github.com/Naveen0502/Project.git
 
 ## Step: 3
-Install `reuirment.txt`
+Install `requirment.txt`
 
     Install the requirment.txt file
     (This requirements. txt file is used for specifying what python packages are required to run the project you are looking at. )

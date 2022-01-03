@@ -11,7 +11,7 @@ We provide a sample app using Flask that you can convert a `CSV` file `JSON` For
 Install and update using `PIP`:
 
     1. In python 3.x
-        $ pip3 install -r requirment.txt
+        $ pip install -r requirment.txt
 
 # Run the Application in microsoft visual studio code(IDE)
 

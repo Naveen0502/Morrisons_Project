@@ -1,7 +1,7 @@
 # READ ME
     This README document contains the steps to deploy `Applications`
 
-    Main theme of the project is to convert a .csv file to a json file.
+    Main theme of the project is to convert a .csv file to a json format.
 
 # Getting Started :
 We provide a sample app using Flask that you can convert a `CSV` file `JSON` Format.These steps will get this application running.
